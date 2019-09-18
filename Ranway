@@ -1,0 +1,37 @@
+
+<!DOCTYPE html>
+<html>
+<link rel="icon" href="https://mesaurabh.tk/wp-content/uploads/2017/03/cropped-14900479_560138527529645_1302985717680760400_n-1-300x300.jpg" type="image/gif" sizes="16x16">
+<title>Ranway Village | Official Website</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<style>
+body,h1 {font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+.bgimg {
+  background-image: url('https://www.mesaurabh.tk/wp-content/uploads/2017/03/cropped-14900479_560138527529645_1302985717680760400_n-1-300x300.jpg');
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+</style>
+<body>
+
+<div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
+  <div class="w3-display-topleft w3-padding-large w3-xlarge">
+    RedSaurb
+  </div>
+  <div class="w3-display-middle">
+    <h1 class="w3-jumbo w3-animate-top">Saurabh Kumar</h1>
+    <hr class="w3-border-grey" style="margin:auto;width:40%">
+    <p class="w3-large w3-center">Tech Geek</p>
+  </div>
+  <div class="w3-display-bottomleft w3-padding-large">
+    Go to Main Website <a href="https://www.MeSaurabh.tk/" target="_blank">MeSaurabh.tk</a>
+  </div>
+</div>
+
+</body>
+</html>
